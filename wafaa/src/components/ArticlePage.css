@@ -1,0 +1,46 @@
+
+.article-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  
+}
+
+.article-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.article-question {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.article-body {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 6px;
+  line-height: 1.6;
+  font-size: 1rem;
+  color: #333;
+}
+
+.back-button {
+  margin-top: 2rem;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #3674B5 !important;
+  color: white !important;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.back-button:hover {
+  background-color: #578FCA !important;
+}
